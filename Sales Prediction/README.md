@@ -1,7 +1,6 @@
-# =========================
-# 📊 Advertising Sales Prediction — Regression Analysis
-# =========================
 
+# 📊 Advertising Sales Prediction — Regression Analysis
+---
 
 ## 📌 Overview
 This project performs regression analysis on the Advertising dataset to understand how different advertising channels (TV, Radio, Newspaper) impact product sales.
